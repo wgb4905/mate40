@@ -1,0 +1,34 @@
+<div class="product-buttonmain">
+                                <!-- 20170518-商品简介-按钮-start -->
+                                <div id="pro-operation" class="product-button clearfix" style="visibility: visible;"><a class="product-button02">立即申购</a><div id="pro-operation-countdown" class="product-time"><p>01月15日 00:00开售:	</p><ul><li><span>00</span></li><li><em>天</em></li><li><span>00</span></li><li><em>:</em></li><li><span>19</span></li><li><em>:</em></li><li><span>55</span></li></ul></div></div>
+                                <!-- 20170518-商品简介-按钮-end -->
+                                <!-- 20170518-商品简介-协议-start -->
+                                <div class="product-agreement hide" id="product-deposit-agreement-area" style="display: none;">
+                                    <input type="checkbox" id="pro-agreement-area-check" checked="">
+                                    <span>同意<a href="javascript:;" onclick="ec.product.showDepositAgreement()">订金支付协议</a></span>
+                                </div>
+                                <!-- 20170518-商品简介-协议-end -->
+                                <!-- 20180212-商品简介-游客购买-start -->
+
+                                <!-- 20180212-商品简介-游客购买-end -->
+                            </div>
+
+
+<div class="product-buttonmain">
+                                <!-- 20170518-商品简介-按钮-start -->
+                                <div id="pro-operation" class="product-button clearfix" style="visibility: visible;"><a onclick="rush.business.clickBtn(1)" class="product-button02"><span>立即申购</span></a></div>
+                                <!-- 20170518-商品简介-按钮-end -->
+                                <!-- 20170518-商品简介-协议-start -->
+                                <div class="product-agreement hide" id="product-deposit-agreement-area" style="display: none;">
+                                    <input type="checkbox" id="pro-agreement-area-check" checked="">
+                                    <span>同意<a href="javascript:;" onclick="ec.product.showDepositAgreement()">订金支付协议</a></span>
+                                </div>
+                                <!-- 20170518-商品简介-协议-end -->
+                                <!-- 20180212-商品简介-游客购买-start -->
+
+                                <!-- 20180212-商品简介-游客购买-end -->
+                            </div>                            
+
+
+
+<a role="button" title="提交订单" class="go-btn" style="background-color: rgb(255, 0, 54);">提交订单</a>                            

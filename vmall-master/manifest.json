@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "vmall-tickets",
+  "version": "1.0",
+  "description": "华为官网抢购mate40",
+  "browser_action": {
+    "default_icon": "vmall.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.vmall.com/*","https://payment.vmall.com/*"],
+      "js": ["mate40.js"],
+	  "run_at": "document_idle"
+    }
+  ]
+}
